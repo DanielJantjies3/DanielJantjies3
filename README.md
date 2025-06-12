@@ -41,7 +41,7 @@ I'm currently a student at Code Space Academy, passionate about merging business
 - **Co-founder, JG Group:**  
   - Doorstep Detailing – Luxury car detailing  
   - Studio Unpackaged – Content production & media house  
-- Thrive on solving real-world problems and excel under pressure
+- Thrive on solving real-world problems
 
 ---
 
