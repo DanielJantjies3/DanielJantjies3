@@ -22,7 +22,7 @@ I'm currently a student at Code Space Academy, passionate about merging business
 
 ## ⭐ Notable Project
 
-- [JSL Final Capstone Project](https://github.com/DanielJantjies3/JSL-Final-Capstone)  
+- [JSL Final Capstone Project](https://github.com/DanielJantjies3/JSL_Portfolio_Piece_DANJAN610_PTO2407_GroupA_Daniel-Jantjies_JSL11)  
   My major academic repository showcasing my journey so far!
 
 ---
