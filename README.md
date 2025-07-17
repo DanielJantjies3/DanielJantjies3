@@ -16,7 +16,7 @@ I'm currently a student at Code Space Academy, passionate about merging business
   - TypeScript  
   - Advanced React  
 - 🎯 **Capstone Project in Progress:**  
-  Building a dynamic Podcast Library application using TypeScript & React (stay tuned!)
+  Building a dynamic Podcast Library application using React (stay tuned!)
 
 ---
 
